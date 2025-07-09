@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi, I'm Jasmine Kaur 👋
 
-<!--
-**JasmineKaurVirdi/JasmineKaurVirdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Sc. IT Student at RR Bawa DAV College for Girls, Batala  
+💻 Passionate Web Developer with hands-on experience in modern technologies
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Skills
+
+- *Frontend :* HTML, CSS, JavaScript  
+- *Backend :* Node.js, Express.js, Django  
+- *Tools :* Git, GitHub, VS Code
+
+---
+
+## 📌 Projects
+
+- [Alpha-Demo](https://github.com/JasmineKaurVirdi/Alpha-Demo)
+- [Project2](https://github.com/JasmineKaurVirdi/project2)
+
+---
+  
+### 🚧 Current Focus
+
+- Building real-world full-stack web applications  
+- Strengthening backend development with Node.js , Express.js and Django  
+
+---
+
+### 📫 How to reach me:
+
+- 📧 jasminevirdi2021@gmail.com  
+- 🔗 [GitHub Profile](https://github.com/JasmineKaurVirdi)
