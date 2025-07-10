@@ -7,7 +7,7 @@
 
 ### 🛠 Technical Skills
 
-- *Frontend :* HTML, CSS, JavaScript  
+- *Frontend :* HTML, CSS, JavaScript , Bootstrap  
 - *Backend :* Node.js, Express.js, Django  
 - *Tools :* Git, GitHub, VS Code
 
