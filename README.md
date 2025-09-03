@@ -16,8 +16,8 @@
 
 ## 📌 Projects
 
-- [Alpha-Demo](https://github.com/JasmineKaurVirdi/Alpha-Demo)
-- [Project2](https://github.com/JasmineKaurVirdi/project2)
+- [Alpha-Demo](https://github.com/JasmineKaurVirdi/Simon-says-game)
+- [Project2](https://github.com/JasmineKaurVirdi/random-image-generator)
 
 ---
   
