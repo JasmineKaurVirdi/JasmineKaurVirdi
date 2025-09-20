@@ -17,13 +17,13 @@
 ---
 
 ## 📂 Featured Projects  
-- 🎮 [Simon Says Game](#) – Interactive memory-based web game  
-- 🎮 [Random-Image-Generator](#) – A web app that generates random images using an API.  
+- 🎮 [Simon Says Game](https://github.com/JasmineKaurVirdi/Simon-says-game) – Interactive memory-based web game  
+- 🎮 [Random-Image-Generator](https://github.com/JasmineKaurVirdi/random-image-generator) – A web app that generates random images using an API.  
    
 ---
 
 ## 🤝 Let’s Connect    
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jasminekaurvirdee)  
 - 💻 [GitHub](https://github.com/JasmineKaurVirdi)  
 
 ---
