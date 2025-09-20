@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Jasmine 
 
-<!--
-**JasmineKaurVirdi/JasmineKaurVirdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year *B.Sc IT Student* with hands-on experience in *frontend development (HTML, CSS, JavaScript, Bootstrap)* and *backend development (Django)*.  
+ <br>
+🚀 Currently exploring the *MERN stack* to broaden my full-stack development skills.  
+ <br>
+💡 Passionate about building practical, user-friendly web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack  
+- 🌐 Frontend: HTML, CSS, JavaScript, Bootstrap  
+- ⚙️ Backend: Django with basic Python, RESTful APIs  
+- 📊 Databases: MySQL, (Currently Exploring MERN Stack)  
+- 🛠 Tools & Platforms: Git, GitHub, VS Code  
+
+---
+
+## 📂 Featured Projects  
+- 🎮 [Simon Says Game](#) – Interactive memory-based web game  
+- 🎮 [Random-Image-Generator](#) – A web app that generates random images using an API.  
+   
+---
+
+## 🤝 Let’s Connect    
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 💻 [GitHub](https://github.com/JasmineKaurVirdi)  
+
+---
+
+⭐️ From [JasmineKaurVirdi](https://github.com/JasmineKaurVirdi)
