@@ -10,9 +10,9 @@
 
 ## 🔧 Tech Stack  
 - 🌐 Frontend: HTML, CSS, JavaScript, Bootstrap  
-- ⚙️ Backend: Django with basic Python, RESTful APIs  
-- 📊 Databases: MySQL, (Currently Exploring MERN Stack)  
-- 🛠 Tools & Platforms: Git, GitHub, VS Code  
+- ⚙️ Backend: Django with Python, Django REST Framework (RESTful APIs)  
+- 📊 Databases(Exploring): MongoDB, MySQL  
+- 🛠 Version Control & Tools: Git, GitHub, VS Code
 
 ---
 
