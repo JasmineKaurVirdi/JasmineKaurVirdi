@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Jasmine
-🎓 BSc IT graduate with hands-on experience in full-stack web development.
-💻 Currently focused on JavaScript, Node.js, Express.js, React and MongoDB.
-🚀 Built and deployed full-stack project and looking for an entry-level developer opportunity.
+- 🎓 BSc IT graduate with hands-on experience in full-stack web development.
+- 💻 Currently focused on JavaScript, Node.js, Express.js, React and MongoDB.
+- 🚀 Built and deployed full-stack project and looking for an entry-level developer opportunity.
 
 ---
 
