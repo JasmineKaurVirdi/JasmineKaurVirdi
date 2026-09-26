@@ -1,24 +1,21 @@
-# 👋 Hi, I'm Jasmine 
-
-🎓 Final-year *B.Sc IT Student* with hands-on experience in *frontend development (HTML, CSS, JavaScript, Bootstrap)* and *backend development (Django)*.  
- <br>
-🚀 Currently exploring the *MERN stack* to broaden my full-stack development skills.  
- <br>
-💡 Passionate about building practical, user-friendly web applications.
+# 👋 Hi, I’m Jasmine
+🎓 BSc IT graduate with hands-on experience in full-stack web development.
+💻 Currently focused on JavaScript, Node.js, Express.js, React and MongoDB.
+🚀 Built and deployed full-stack project and looking for an entry-level developer opportunity.
 
 ---
 
 ## 🔧 Tech Stack  
 - 🌐 Frontend: HTML, CSS, JavaScript, Bootstrap  
-- ⚙️ Backend: Django with Python, Django REST Framework (RESTful APIs)  
-- 📊 Databases(Exploring): MongoDB, MySQL  
+- ⚙️ Backend: Node.js, Express.js, EJS  
+- 📊 Databases: MongoDB, Mongoose, MySQL
 - 🛠 Version Control & Tools: Git, GitHub, VS Code
 
 ---
 
-## 📂 Featured Projects  
-- 🎮 [Simon Says Game](https://github.com/JasmineKaurVirdi/Simon-says-game) – Interactive memory-based web game  
-- 🎮 [Random-Image-Generator](https://github.com/JasmineKaurVirdi/random-image-generator) – A web app that generates random images using an API.  
+## 📂 Featured Projects 
+- 🏡 [Wanderlust – Live Demo](https://wanderlust-rygy.onrender.com/listings)⁠
+- 🎮 [Wanderlust - Full-Stack Web Application](https://github.com/JasmineKaurVirdi/wanderlust) – Airbnb-inspired full-stack web application built with Node.js, Express.js, MongoDB, Mongoose and EJS. Includes authentication, CRUD operations, reviews, search and interactive maps.  
    
 ---
 
@@ -28,4 +25,4 @@
 
 ---
 
-⭐️ From [JasmineKaurVirdi](https://github.com/JasmineKaurVirdi)
+⭐️ From JasmineKaurVirdi
